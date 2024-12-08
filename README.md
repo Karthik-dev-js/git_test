@@ -1,2 +1,2 @@
 # git_test
-"Hello Odin!"
+"Hello Odin new user os!"
