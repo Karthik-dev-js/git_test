@@ -1,1 +1,1 @@
-use console to print out
+hi this is a new text file for testing git
